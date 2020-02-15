@@ -1,0 +1,9 @@
+git testcaseScreen/
+testXmlData/
+__pycache__/ 
+testcaselog/
+### IntelliJ IDEA ###
+.idea
+*.iml
+*.ipr
+*.iws

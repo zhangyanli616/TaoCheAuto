@@ -1,0 +1,12 @@
+# -*- coding:utf-8 -*-
+#@author:xulanzhong
+from titan import tt_check
+from taocheM.base_m import Base
+from taocheM.config_m import TestConfig
+from taocheM.locator_m import SellCar_Locator
+from taocheM.test_login import test_login
+from time import sleep
+from titan.tt_log import LOG
+
+
+# 详情页点击『立赚1000』检查
