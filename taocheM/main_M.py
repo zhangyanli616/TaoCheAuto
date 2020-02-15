@@ -1,4 +1,19 @@
 # -*- coding:utf-8 -*-
+import sys
+print(sys.path)
+sys.path.append("C:\\Users\\zhangyanli\\AppData\\Local\\Programs\\Python\\Python37\\python.exe")
+sys.path.append("D:/Program Files (x86)/Jenkins/workspace/TestTaoche/taocheM/main_M.py")
+sys.path.append("D:\\Program Files (x86)\\Jenkins\\workspace\\TestTaoche\\taocheM")
+sys.path.append("D:\\Program Files (x86)\\Jenkins\\workspace\\TestTaoche")
+sys.path.append("C:\\Users\\zhangyanli\\AppData\\Local\\Programs\\Python\\Python37\\python37.zip")
+sys.path.append("C:\\Users\\zhangyanli\\AppData\\Local\\Programs\\Python\\Python37\\DLLs")
+sys.path.append("C:\\Users\\zhangyanli\\AppData\\Local\\Programs\\Python\\Python37\\lib")
+sys.path.append("C:\\Users\\zhangyanli\\AppData\\Local\\Programs\\Python\\Python37")
+sys.path.append("C:\\Users\\zhangyanli\\AppData\\Local\\Programs\\Python\\Python37\\lib\\site-packages")
+sys.path.append("C:\\Users\\zhangyanli\\AppData\\Local\\Programs\\Python\\Python37\\lib\\site-packages\\pip-19.0.3-py3.7.egg")
+sys.path.append("E:\\Program Files\\JetBrains\\PyCharm 2018.3.1\\helpers\\pycharm_matplotlib_backend")
+
+
 import unittest
 
 from service import AutoTest
